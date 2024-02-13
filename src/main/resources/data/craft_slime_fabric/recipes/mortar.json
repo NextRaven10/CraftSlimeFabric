@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " / ",
+    "w w",
+    " w "
+  ],
+  "key": {
+    "w": {
+      "tag": "minecraft:planks"
+    },
+    "/": {
+      "item": "craft_slime_fabric:pestle"
+    }
+  },
+  "result": {
+    "item": "craft_slime_fabric:mortar",
+    "count": 1
+  }
+}

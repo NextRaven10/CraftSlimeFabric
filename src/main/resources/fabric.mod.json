@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "craft_slime_fabric",
+  "version": "${version}",
+  "name": "Craft Slime Fabric",
+  "description": "Simple Slime Crafting Mod For Fabric \n \n \nInspired by https://www.curseforge.com/minecraft/mc-mods/slime-crating/screenshots by bishathemis",
+  "authors": [
+    "Next Raven\nxSpinHDx for the textures"
+  ],
+  "contact": {
+    "repo": "https://github.com/caspa/CraftSlimeFabric"
+  },
+  "license": "All-Rights-Reserved",
+  "icon": "assets/craft_slime_fabric/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "me.next_raven.craft_slime_fabric.CraftSlimeFabric"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

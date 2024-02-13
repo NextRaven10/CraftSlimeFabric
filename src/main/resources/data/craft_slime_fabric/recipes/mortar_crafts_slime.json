@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "lwl",
+    "l/l",
+    "lll"
+  ],
+  "key": {
+    "l": {
+      "tag": "minecraft:leaves"
+    },
+    "w": {
+      "item": "minecraft:water_bucket"
+    },
+    "/": {
+      "item": "craft_slime_fabric:mortar"
+    }
+  },
+  "result": {
+    "item": "minecraft:slime_ball",
+    "count": 2
+  }
+}
