@@ -1,5 +1,7 @@
 # User-specific stuff
 .idea/
+.icon.pdn
+.slime_ball.png
 
 *.iml
 *.ipr
